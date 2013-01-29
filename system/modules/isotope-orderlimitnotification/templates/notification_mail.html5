@@ -1,0 +1,3 @@
+Name: <?php echo $this->firstname; ?> <?php echo $this->lastname; ?>
+
+E-Mail: <?php echo $this->email; ?>
